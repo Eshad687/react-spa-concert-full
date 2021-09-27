@@ -1,0 +1,17 @@
+.artist-box{
+    transition: transform 0.5s, border 0.5s ;
+}
+.artist-box:hover{
+    transform: scale(103%);
+    border: 1px solid royalblue;
+}
+.selected{
+    color: royalblue;
+}
+.user-cross{
+    text-align: end;
+    margin:0;
+    color: rgb(163, 8, 8);
+    background: none;
+    border: 0;
+}

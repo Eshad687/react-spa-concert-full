@@ -1,0 +1,15 @@
+.main{
+    background-image:url("../../images/photo-1615715757401-f30e7b27b912.jpg");
+    background-size: 100%;
+    background-attachment: fixed;
+}
+.input-field{
+background-color: royalblue;
+}
+.main input{
+    width: 70%;
+    border: 0;
+    border-radius: 5px;
+    padding-left: 5px;
+    
+}

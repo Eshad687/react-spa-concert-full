@@ -1,0 +1,16 @@
+.artist-card{
+    background-color: lightblue;
+    transition: transform 0.5s, border 0.5s;
+}
+.btn{
+    background-color: royalblue;
+    transition: transform 0.5s;
+}
+
+.artist-card:hover{
+    transform: scale(102%);
+    border: 1px solid royalblue;
+}
+.btn:hover{
+    transform: scale(103%); 
+}

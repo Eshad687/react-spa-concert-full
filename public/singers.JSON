@@ -1,0 +1,101 @@
+[
+    {
+        "id": 1,
+        "image": "https://cdn.britannica.com/s:300x169,c:crop/55/178355-050-C8D8F519/Help-film-Paul-McCartney-Richard-Lester.jpg",
+        "name": "Paul Mccartney",
+        "band": "The Beatles",
+        "country": "England",
+        "age": 79,
+        "fee": 20000
+    },
+    {
+        "id": 2,
+        "image": "https://www.biography.com/.image/t_share/MTE5NTU2MzE2MDcwNjQzMjEx/ringo-starr-306872-1-402.jpg",
+        "name": "Ringo Starr",
+        "band": "The Beatles",
+        "country": "England",
+        "age": 81,
+        "fee": 15000
+    },
+    {
+        "id": 3,
+        "image": "https://www.biography.com/.image/t_share/MTgwMjk3MjI5MjU5NTE1MDMw/gettyimages-3315233.jpg",
+        "name": "Bob Dylan",
+        "band": "Traveling Wilburys",
+        "country": "USA",
+        "age": 79,
+        "fee": 20000
+    },
+    {
+        "id": 4,
+        "image": "https://www.nme.com/wp-content/uploads/2021/09/Coldplays-Chris-Martin-performs-in-June-2021.jpg",
+        "name": "Chris Martin",
+        "band": "Coldplay",
+        "country": "England",
+        "age": 44,
+        "fee": 12000
+    },
+    {
+        "id": 5,
+        "image": "https://variety.com/wp-content/uploads/2020/12/Ryan-Tedder.jpg?w=1000",
+        "name": "Ryan Tedder",
+        "band": "OneRepublic",
+        "country": "USA",
+        "age": 42,
+        "fee": 11000
+    },
+    {
+        "id": 6,
+        "image": "https://i.insider.com/5c535b834c8843072b688ea3?width=700",
+        "name": "Adam Levine",
+        "band": "Maroon 5",
+        "country": "USA",
+        "age": 42,
+        "fee": 14000
+    },
+    {
+        "id": 7,
+        "image": "https://www.famousbirthdays.com/headshots/ivan-moody-9.jpg",
+        "name": "Ivan L. Moody",
+        "band": "FFDP",
+        "country": "USA",
+        "age": 41,
+        "fee": 8000
+    },
+    {
+        "id": 8,
+        "image": "https://akns-images.eonline.com/eol_images/Entire_Site/201994/rs_600x600-191004192558-600.sia-furler.ct.100419.jpg?fit=around%7C1200:1200&output-quality=90&crop=1200:1200;center,top",
+        "name": "Sia Furler",
+        "band": "LSD",
+        "country": "Australia",
+        "age": 45,
+        "fee": 12000
+    },
+    {
+        "id": 9,
+        "image": "https://www.koimoi.com/wp-content/new-galleries/2021/08/adele-to-splash-2-mn-pounds-on-her-new-home-001.jpg",
+        "name": "Adele",
+        "band": "Adele",
+        "country": "England",
+        "age": 33,
+        "fee": 1000
+    },
+    {
+        "id": 10,
+        "image": "https://i.ytimg.com/vi/VsEZDGshCgE/hqdefault.jpg",
+        "name": "Anthony Kiedis",
+        "band": "RHCP",
+        "country": "USA",
+        "age": 58,
+        "fee": 20000
+    },
+    {
+        "id": 11,
+        "image": "https://c8.alamy.com/comp/PK0THX/nick-carter-backstreet-boys-on-26041998-in-orlando-usage-worldwide-PK0THX.jpg",
+        "name": "Nick Carter",
+        "band": "Backstreet Boys",
+        "country": "USA",
+        "age": 41,
+        "fee": 5000
+    }
+]
